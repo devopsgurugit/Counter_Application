@@ -6,6 +6,7 @@
 	<display-name>Counter Web Application</display-name>
 	<!-- trigger pipeline test change -->
 	<!-- trigger pipeline test change -->
+	<!-- trigger pipeline test change -->
 
 	<servlet>
 		<servlet-name>mvc-dispatcher</servlet-name>
